@@ -1,3 +1,7 @@
 body {
-
+ p{border: 8px solid powderblue;
+        padding: 30px;
+        font-size: 20px;
+        font-family: fantasy;
+        color: darkkhaki}
 }
